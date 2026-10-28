@@ -1,0 +1,10 @@
+openpyxl
+pillow
+streamlit -aggrid
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+matplotlib
+joblib
